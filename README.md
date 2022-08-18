@@ -14,5 +14,5 @@ A Fully Functional yet minimal (Tkinter)GUI Based YouTube Downloader
 3. Press Download Button to start downloading
 4. Press Thumb Download button to download only the Thumbnail
 5. Press Browse Button to look for the downloaded files
-6. 
+ 
 ![Preview](img/122.PNG)
