@@ -1,0 +1,5 @@
+wget
+pytube
+PIL
+tkinter
+customtkinter
